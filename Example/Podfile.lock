@@ -21,7 +21,7 @@ DEPENDENCIES:
 
 EXTERNAL SOURCES:
   jot:
-    :path: ../jot.podspec
+    :path: "../jot.podspec"
 
 SPEC CHECKSUMS:
   Expecta: 54e8a3530add08f4f0208c111355eda7cde74a53
@@ -33,4 +33,6 @@ SPEC CHECKSUMS:
   OCMockito: 4981140c9a9ec06c31af40f636e3c0f25f27e6b2
   Specta: cf3e4188cf35375c3ee2cd03f8db8f1f4ef98234
 
-COCOAPODS: 0.38.2
+PODFILE CHECKSUM: be6886f6933662c7e814b204f2c2c57db3556941
+
+COCOAPODS: 1.0.1
